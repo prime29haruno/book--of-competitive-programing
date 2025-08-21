@@ -1,1 +1,1 @@
-# book--of-competitive-programing
+# book-of-competitive-programing
